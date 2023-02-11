@@ -22,7 +22,7 @@ const personGenerator = {
           }
       }`,
     firstNameMaleJson: `{
-          "count": 11,
+          "count": 10,
           "list": {     
               "id_1": "Александр",
               "id_2": "Максим",
@@ -34,7 +34,6 @@ const personGenerator = {
               "id_8": "Евгений",
               "id_9": "Егор",
               "id_10": "Андрей"
-              "id_11": "Аллесандр"
           }
       }`,
     firstNameFemaleJson: `{
