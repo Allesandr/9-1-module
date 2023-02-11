@@ -1,0 +1,42 @@
+.card-body {
+    background-color: #eeff00;
+    color: rgb(113, 16, 133);
+    font-size: larger;
+    }
+
+.card-header {
+    background-color:#ecba5c;
+    color: rgb(209, 129, 224);
+    font-size: larger;
+}
+
+button {
+        background-color: #496877;
+        border: none;
+        color: rgb(38, 0, 255);
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 4px;
+        cursor: pointer;
+        border-radius: 40px;
+        width: 170px;
+      
+}
+
+#reset {
+        background-color: #83007c;
+        border: none;
+        color: rgb(255, 208, 0);
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 2px 2px;
+        cursor: pointer;
+        border-radius: 30px;
+        width: 150px;
+}
